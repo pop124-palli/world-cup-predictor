@@ -1,0 +1,12 @@
+{
+  "Brazil":      ["Vinicius Jr", "Rodrygo"],
+  "France":      ["Kylian Mbappe", "Antoine Griezmann"],
+  "Argentina":   ["Lionel Messi", "Julian Alvarez"],
+  "England":     ["Jude Bellingham", "Harry Kane"],
+  "Spain":       ["Pedri", "Lamine Yamal"],
+  "Germany":     ["Florian Wirtz", "Jamal Musiala"],
+  "Portugal":    ["Cristiano Ronaldo", "Bruno Fernandes"],
+  "Netherlands": ["Virgil van Dijk", "Cody Gakpo"],
+  "Belgium":     ["Kevin De Bruyne", "Romelu Lukaku"],
+  "Italy":       ["Federico Chiesa", "Nicolo Barella"]
+}

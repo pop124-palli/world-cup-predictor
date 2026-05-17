@@ -1,0 +1,10 @@
+{
+  "La Paz":        {"altitude_m": 3640, "country": "Bolivia",  "surface": "grass"},
+  "Quito":         {"altitude_m": 2850, "country": "Ecuador",  "surface": "grass"},
+  "Mexico City":   {"altitude_m": 2240, "country": "Mexico",   "surface": "grass"},
+  "Bogota":        {"altitude_m": 2600, "country": "Colombia", "surface": "grass"},
+  "New York":      {"altitude_m":    3, "country": "USA",      "surface": "grass"},
+  "Los Angeles":   {"altitude_m":   71, "country": "USA",      "surface": "grass"},
+  "Dallas":        {"altitude_m":  183, "country": "USA",      "surface": "artificial"},
+  "Toronto":       {"altitude_m":   76, "country": "Canada",   "surface": "grass"}
+}
